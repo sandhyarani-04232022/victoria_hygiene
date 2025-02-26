@@ -1,0 +1,107 @@
+[26-Feb-2025 06:45:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\ti-woocommerce-wishlist\includes\pluginextend.helper.php:298
+Stack trace:
+#0 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php(202): TInvWL_PluginExtend->status_dependency()
+#1 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php(226): dependency_tinv_wishlist()
+#2 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\class-wp-hook.php(324): run_tinv_wishlist('')
+#3 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-settings.php(559): do_action('plugins_loaded')
+#6 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-config.php(103): require_once('C:\\Users\\anoop\\...')
+#7 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-load.php(50): require_once('C:\\Users\\anoop\\...')
+#8 C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\anoop\\...')
+#9 {main}
+  thrown in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\ti-woocommerce-wishlist\includes\pluginextend.helper.php on line 298
+[26-Feb-2025 06:46:50 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 929
+[26-Feb-2025 06:51:07 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\woocommerce\includes\customizer\class-wc-shop-customizer.php on line 950
+[26-Feb-2025 06:51:07 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\woocommerce\includes\customizer\class-wc-shop-customizer.php on line 950
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:51:08 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 06:52:52 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 07:34:01 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 11:52:32 UTC] PHP Warning:  Array to string conversion in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-includes\formatting.php on line 1096
+[26-Feb-2025 12:07:09 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-icon" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 27
+[26-Feb-2025 12:07:09 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-image" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 32
+[26-Feb-2025 12:07:09 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-image-position" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 37
+[26-Feb-2025 12:07:09 UTC] PHP Warning:  Undefined array key "wdt-menu-item-child-animation" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 42
+[26-Feb-2025 12:07:09 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-custom-label" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 47
+[26-Feb-2025 12:07:09 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-custom-label-type" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 52
+[26-Feb-2025 12:07:15 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-icon" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 27
+[26-Feb-2025 12:07:15 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-image" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 32
+[26-Feb-2025 12:07:15 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-image-position" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 37
+[26-Feb-2025 12:07:15 UTC] PHP Warning:  Undefined array key "wdt-menu-item-child-animation" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 42
+[26-Feb-2025 12:07:15 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-custom-label" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 47
+[26-Feb-2025 12:07:15 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-custom-label-type" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 52
+[26-Feb-2025 12:07:22 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-icon" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 27
+[26-Feb-2025 12:07:22 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-image" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 32
+[26-Feb-2025 12:07:22 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-image-position" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 37
+[26-Feb-2025 12:07:22 UTC] PHP Warning:  Undefined array key "wdt-menu-item-child-animation" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 42
+[26-Feb-2025 12:07:22 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-custom-label" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 47
+[26-Feb-2025 12:07:22 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-custom-label-type" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 52
+[26-Feb-2025 12:07:27 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-icon" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 27
+[26-Feb-2025 12:07:27 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-image" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 32
+[26-Feb-2025 12:07:27 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-image-position" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 37
+[26-Feb-2025 12:07:27 UTC] PHP Warning:  Undefined array key "wdt-menu-item-child-animation" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 42
+[26-Feb-2025 12:07:27 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-custom-label" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 47
+[26-Feb-2025 12:07:27 UTC] PHP Warning:  Undefined array key "menu-item-wdt-menu-custom-label-type" in C:\Users\anoop\Local Sites\victoria-hygiene\app\public\wp-content\plugins\mezan-plus\modules\menu\walker\backend-menu-walker.php on line 52

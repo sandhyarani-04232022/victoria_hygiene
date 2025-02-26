@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://victoria-hygiene.local
+Data file = C:\Users\anoop\Local Sites\victoria-hygiene\app\public/wp-content/uploads/2025/02/demo-content-import-file_2025-02-26__06-53-55.xml
+Widget file = C:\Users\anoop\Local Sites\victoria-hygiene\app\public/wp-content/uploads/2025/02/demo-widgets-import-file_2025-02-26__06-53-55.json
+Customizer file = C:\Users\anoop\Local Sites\victoria-hygiene\app\public/wp-content/uploads/2025/02/demo-customizer-import-file_2025-02-26__06-53-55.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Carpenter Tools
+[WARNING] Failed to import product_tag Electrical Tools
+[WARNING] Failed to import product_cat Equipment
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_cat Hand Tools
+[WARNING] Failed to import product_cat Hardware DIY Tools
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag Plumbing Tools
+[WARNING] Failed to import product_cat Power Tools
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_cat Safety Wear
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import pa_color Yellow
+
+
+---Importing widgets---
+Standard Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+wdt-cw-shop-side-bar : 
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories: - Site does not support widget
+woocommerce_recently_viewed_products - Recently Viewed Products: - Site does not support widget
+woocommerce_product_tag_cloud - Product tags: - Site does not support widget
+Image - No Title - Imported
+
+wdt-cw-blogsidebar : 
+
+Search - No Title - Imported
+Mezan Posts - Recent Posts: - Imported
+Gallery - Instagram: - Imported
+Tag Cloud - Tags: - Imported
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

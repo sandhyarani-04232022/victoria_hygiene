@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+	<style type="text/css">
+	.wdt-right-cross-arrow{fill:currentColor;}
+	</style>
+	<path class="wdt-right-cross-arrow" d="M97.7,30c0.6-2.1-0.7-4.3-2.8-4.9l-34.6-9.3c-2.1-0.6-4.3,0.7-4.9,2.8c-0.6,2.1,0.7,4.3,2.8,4.9L89,31.8
+	l-8.2,30.8c-0.6,2.1,0.7,4.3,2.8,4.9c2.1,0.6,4.3-0.7,4.9-2.8L97.7,30z M6.2,84.2l89.7-51.8l-4-6.9L2.2,77.3L6.2,84.2z"/>
+</svg>

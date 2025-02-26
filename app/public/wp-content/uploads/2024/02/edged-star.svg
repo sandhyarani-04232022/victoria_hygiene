@@ -1,0 +1,30 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 79 79" style="enable-background:new 0 0 79 79;" xml:space="preserve">
+<g>
+	<g>
+		<rect x="37" width="5" height="79"/>
+	</g>
+	<g>
+		<rect x="0" y="37" transform="matrix(0.3838 -0.9234 0.9234 0.3838 -12.1311 60.8147)" width="79" height="5"/>
+	</g>
+	<g>
+		<rect x="0" y="37" transform="matrix(0.925 -0.38 0.38 0.925 -12.0478 17.9718)" width="79" height="5"/>
+	</g>
+	<g>
+		<rect x="37" y="0" transform="matrix(0.3867 -0.9222 0.9222 0.3867 -12.205 60.65)" width="5" height="79"/>
+	</g>
+	<g>
+		<rect x="37" y="0" transform="matrix(0.9263 -0.3769 0.3769 0.9263 -11.9732 17.8012)" width="5" height="79"/>
+	</g>
+	<g>
+		<rect x="0" y="37" transform="matrix(0.7068 -0.7074 0.7074 0.7068 -16.3626 39.5244)" width="79" height="5"/>
+	</g>
+	<g>
+		<rect y="37" width="79" height="5"/>
+	</g>
+	<g>
+		<rect x="37" y="0" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -16.3623 39.4983)" width="5" height="79"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.wdt-custom-bullet{opacity:0.3;enable-background:new    ;}
+</style>
+<g>
+	<circle class="wdt-custom-bullet" cx="8" cy="8" r="8"/>
+	<circle cx="8" cy="8" r="4"/>
+</g>
+</svg>
